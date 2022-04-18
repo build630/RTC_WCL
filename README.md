@@ -53,7 +53,7 @@ All of the following examples use bash multiline syntax for legibility. Leave th
 ## Prerequisites
 
 - WCL requires an up to date working Java. Currently **Java 8** is known to work. Some newer Java versions might cause Class Not found and other exceptions.  
-- WCL requires the **RTC/EWM Plain Java Client Libraries**.
+- WCL requires the **RTC/EWM Plain Java Client Libraries**. (https://jazz.net/downloads/rational-team-concert/?_ga=2.134994545.1857662395.1650313240-2095151169.1650313240)
 
 **Download** the Plain Java Client Libraries from the 'All Downloads' tab of the download page **for your version of EWM**.
 Unzip the Plain Java Client Libraries into a folder on your local disc for example C:\ELM702\PlainJavaAPI. 
